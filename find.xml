@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="FILE_MASK" value="*.coffee, *.jade, *.less, *.js" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.coffee, *.jade, *.js</mask>
+      <mask>*.coffee, *.jade</mask>
+      <mask>*.coffee, *.jade, *.less</mask>
+      <mask>*.coffee</mask>
+      <mask>*.coffee, *.js</mask>
+      <mask>*.jade</mask>
+      <mask>*.coffee, *.jade, *.less, *.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
